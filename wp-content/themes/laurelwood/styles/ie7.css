@@ -1,0 +1,24 @@
+/* LAURELWOOD IE7 */
+
+div#footer input#inputemail {
+	vertical-align: middle;
+	margin-left: -5px;
+}
+
+div#footer input#inputsubmit {
+	margin-top: -10px;
+}
+
+input#addressSubmit {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div#footer ul {
+	clear: left;
+	margin: -40px 0 0 100px;
+}
+div#footer p#copyright {
+	clear: left;
+	margin: 0 0 0 100px;
+}

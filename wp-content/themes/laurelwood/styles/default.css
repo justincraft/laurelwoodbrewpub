@@ -1,0 +1,169 @@
+/*=== Setup ===*/
+
+
+
+h3{
+	color: #7bc142;
+}
+h4{
+	color: #444444;
+}
+
+/*=== Intro ===*/
+p.intro a {
+	color:#FFFFFF;
+}
+p.intro a:hover {
+	color:#222222;
+}
+
+/*=== Buttons ===*/
+
+.btn-rounded a{
+	background: url(default/btn-rounded.gif) no-repeat left;
+	color: #fff;
+}
+.btn-rounded a span{
+	background: url(default/btn-rounded.gif) no-repeat right;
+}
+.btn {
+	background:url(default/btn.gif) repeat-x;
+	border: none;
+ 	color:#fff;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	cursor: auto;
+}
+
+
+/*=== Navigation ===*/
+/*- Nav1 -*/
+
+
+/*=== Right Column ===*/
+
+
+/*=== Sub Columns ===*/
+.col1 a{
+	color: #555555;
+}
+.col3 h2{
+	color: #464646;
+}
+.col5 img{
+	border: 10px solid #f6f5ed;
+}
+
+/*=== Styling Boxes ===*/
+/*- Box1 -*/
+.box .top,.box .bot{
+	background: url(default/box-top.gif) no-repeat top;
+}
+.box .bot{
+	background: url(default/box-bot.gif) no-repeat top
+}
+.box .spacer{
+	background: none;
+}
+/*- Box2 -*/
+.box2 .top,.box2 .bot{
+	background: url(default/box2-top.gif) no-repeat top;
+}
+.box2 .bot{
+	background: url(default/box2-bot.gif) no-repeat top
+}
+
+/*- Box3 -*/
+.box3 .top,.box3 .bot{
+	background: url(default/box3-top.gif) no-repeat top;
+}
+.box3 .bot{
+	background: url(default/box3-bot.gif) no-repeat top
+}
+
+/*- Box4 -*/
+.box4{
+	color: #ffffff;
+}
+.box4 .top,.box4 .bot{
+	background: url(default/box4-top.gif) no-repeat top;
+}
+.box4 .bot{
+	background: url(default/box4-bot.gif) no-repeat top
+}
+.box4 .spacer{
+	background: #b0c730;
+}
+/*- Box5 -*/
+.box5 .top,.box5 .bot{
+	/*background: url(default/box5-top.gif) no-repeat top;*/
+	background-color: #F9E9C8;
+}
+.box5 .bot{
+	/*background: url(default/box5-bot.gif) no-repeat top*/
+	background-color: #F9E9C8;
+}
+.box5 .spacer{
+	/*background: url(default/box5-bgr.gif) repeat-y top;*/
+	background-color: #F9E9C8;
+}
+/*- Box6 -*/
+
+
+/*- Date -*/
+.date{
+	color: #898989;
+}
+
+/*=== Styling Forms ===*/
+/*- Search -*/
+
+/*- Form1 Setup -*/
+.btn-general{
+	background: #a4b92e;
+	color: #ffffff;
+}
+.btn-general a {
+	color: #ffffff;
+}
+.btn-arr a{
+	background: #bdbbac;
+	color: #ffffff;
+}
+
+/*=== Footer ===*/
+/*#footer{
+	background: url(default/footer-bgr.gif) no-repeat top;
+	color: #949387;
+}*/
+#footer a{
+	color: #949387;
+}
+
+/*=== Posts ===*/
+
+
+.post blockquote {
+	font-family:Georgia, "Times New Roman", Times, serif; color:#777777;
+	background:#F0EEE1 url(default/ico-quote.gif) no-repeat 10px 10px;
+	border-top:1px solid #E5E3D1;
+	border-bottom:1px solid #E5E3D1;
+}
+
+/*=== Widget styling ===*/
+
+.widget #searchform, .widget #calendar_wrap{
+	background: none;
+}
+.widget #wp-calendar caption {
+	color:#333333;
+}
+.widget #wp-calendar thead th {
+	color:#333333;
+}
+.widget #wp-calendar tfoot td a {
+	color:#333333;
+}
+.quote {
+	background:url(default/ico-quote.gif) no-repeat top left;
+}
